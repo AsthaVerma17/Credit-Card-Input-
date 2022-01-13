@@ -1,2 +1,2 @@
 # Credit-Card-Input-
-Here I developed an Android screen which allows the user to enter and submit credit card details of particular type.
+link=F:\html_files\input_card\Credit-Card-Input-\morr_app\build\app\outputs\apk\release\app-x86_64-release
